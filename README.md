@@ -4,14 +4,14 @@ Para criar um executavel
 
 1 - npm install -g pkg
 
-2 - adicione no json :
-	"bin":"app.js", ----> nome da main do app
-  "pkg":{
-  	"assets":[    -------> pastas a serem adicionadas no exe
-  		"docs/**/",
-  		"functions/**/*",
-  		"valores/**//",
-  		"views/**/*"
-  	],
+2 - adicione no json :<br>
+	"bin":"app.js", ----> nome da main do app <br>
+  "pkg":{ <br>
+  	"assets":[    -------> pastas a serem adicionadas no exe <br>
+  		"docs/**/", <br>
+  		"functions/**/*", <br>
+  		"valores/**//", <br>
+  		"views/**/*" <br>
+  	], <br>
   	"targets":["node12"] ---------> versoes a a serem criadas o exe
   }
