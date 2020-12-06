@@ -12,7 +12,8 @@
   <li>"opn": "^6.0.0"</li>
   <li> "path": "^0.12.7"</li>
   <li>  "pdf-parse": "^1.1.1" </li>
-</ul>
+</ul><br>
+
 ![alt text](https://github.com/vinigam/consultar-produtos/blob/main/layout.jpg)
 
 # Produto retornado<br>
