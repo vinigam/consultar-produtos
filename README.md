@@ -1,5 +1,5 @@
 # Funcionamento<br>
-<p>O aplicativo consiste em receber três parametros, consulta-los na lista de produto e retornar algum resultado.<br>
+<p>O aplicativo consiste em receber três parametros, consulta-los na lista de produtos e retornar algum resultado.<br>
 <p> Os resultados podem ser "nao encontrado" ou retornar as informaçoes que batem com as fornecidas mas acrescidas de algumas informações<br>
 
 # Dependencias<br>
