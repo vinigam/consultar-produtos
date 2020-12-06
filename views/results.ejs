@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Compara Preços</title>
+	<link rel="stylesheet" type="text/css" href="views/css/style.css">
+</head>
+<body>
+	<nav>
+		<ul class ="navbar-main" id = "dropdownClick">
+			
+			<li><a href="/">Calcular</a></li>
+			<li><a href="/result">Atual</a></li>
+			<li><a href="/produtos">Produtos</a></li>
+			<li><a href="/gerar_txt">Gerar TXT</a></li>
+			<li class ="dropdownIcon"><a href= "#" onclick="dropdownMenu()">&#9776;</a></li>
+		
+		<!-- javascript:void(0) = stay in the same page or just use # in href-->
+		</ul>
+	</nav>
+	
+	<div class="flex-container">
+		
+		<div class = "container">
+			
+			<form name ="check-price" action='/check' method="POST">
+				<% if(find == 1) { %>
+					<div class ="not-find">Produto não encontrado</div>
+				<% }%>
+				<p class = "product-name">Nome do Produto</p>
+				<input name ="name"class = "input-name"type="text" id="Product-name" required>
+				<p class = "product-price">Preco do Produto</p>
+				<input name ="product" class = "input-price" type="number" step ="0.01" id ="Product-price" required>
+				<br>
+				<p class = "product-unity" >Unidade</p>
+				<input type="number" name="unity" class="input-unity" required>
+				<br>
+				<button class = "btn-submit"type = "submit"> Calcular</button>
+				
+				<a class = "btn-reset" href="/zerar">Zerar</a></button>
+			</form>
+			
+
+			
+		</div>
+		<div class="show_results">
+				<div class ="results">
+					<% if (results.length > 0) { %>
+						<h1 class ="Total"> Total : <%= total.toFixed(2) %></h1>
+						<% results.forEach(result => { %>
+							<h2><%= result.nome_produto %></h2>
+							<p>Pauta : <%= result.preco_de_pauta %></p>
+							<p>Quantidade : <%= result.quantidade %></p>
+							<p>Preço : <%= result.preco %></p>
+							<p>Imposto : <%= result.imposto %></p>
+							<p>Condição : <%= result.condicao %></p>
+						<hr>
+						<% }) %>
+					<% }%>
+					
+				<div>
+
+		</div>
+	</div>
+
+	
+	
+</body>
+<script src="functions/checker.js"></script>
+
+</html>

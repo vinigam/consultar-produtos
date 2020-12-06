@@ -1,0 +1,226 @@
+
+
+  
+ 
+ESTADO DO MARANHÃO 
+SECRETARIA DE ESTADO DA FAZENDA 
+ 
+ 
+ 
+                 GRUPO 05 - HORTIFRUTIGRANJEIROS 
+ 
+ 
+GRUPO 05 - HORTIFRUTIGRANJEIROS 
+ 
+Subgrupo 01 Aves 
+ 
+Código UND DISCRIMINAÇÃO VALOR 
+PORTARIA 
+48493 kg Galinha de granja abatida 5,49 
+013/2016 
+48494 kg Galinha de granja viva 2,88 
+013/2016 
+49434 cb Frango vivo  4,99 
+013/2016 
+34009 cb Frango Caipira 15,99 
+013/2016 
+Subgrupo 02  Frutas 
+ 
+Código UND DISCRIMINAÇÃO VALOR 
+ 
+48250 kg abacate 1,49 
+013/2016 
+03002 und abacaxi 1,36 
+013/2016 
+46000 kg acerola 0,78 
+013/2016 
+46001 kg bacuri 5,49 
+013/2016 
+03004 t banana 431,37 
+013/2016 
+11145 kg cajá 2,55 
+013/2016 
+03008 kg caju 1,18 
+013/2016 
+07004 kg castanha de caju 1,05 
+013/2016 
+03010 und coco seco 0,98 
+013/2016 
+03012 und coco verde 0,73 
+013/2016 
+46003 kg cupuaçu 5,69 
+013/2016 
+49677 kg Graviola 5,06 
+013/2016 
+03013 kg goiaba 1,63 
+013/2016 
+03016 t laranja 823,54 
+013/2016 
+03017 t manga constantina 1.372,54 
+013/2016 
+03018 t manga outras 1.215,68 
+013/2016 
+03019 t manga rosa 1.480,39 
+013/2016 
+03020 kg maracujá 2,35 
+013/2016 
+03021 kg melancia 0,51 
+013/2016 
+03022 kg melão 0,98 
+013/2016 
+04424 kg murici 1,57 
+013/2016 
+00001 kg polpa de abacaxi 2,35 
+013/2016 
+00002 kg polpa de acerola 2,75 
+013/2016 
+00003 kg polpa de bacuri 5,49 
+013/2016 
+46006 kg polpa de cajá 3,14 
+013/2016 
+00005 kg polpa de cupuaçu 6,47 
+013/2016 
+00004 kg polpa de goiaba 2,75 
+013/2016 
+00006 kg polpa de laranja 2,35 
+013/2016 
+
+  
+ 
+ESTADO DO MARANHÃO 
+SECRETARIA DE ESTADO DA FAZENDA 
+ 
+ 
+ 
+00007 kg polpa de maracujá 2,75 
+013/2016 
+00008 kg polpa de murici 3,14 
+013/2016 
+46009 kg Polpa de Tamarino 2,72 
+013/2016 
+46007 kg Polpa de açaí 5,40 
+013/2016 
+46008 kg Polpa de manga 2,61 
+013/2016 
+48980 kg Polpa de Morango 6,93 
+013/2016 
+49713 kg Polpa de Uva 6,93 
+013/2016 
+48753 kg Polpa de Graviola 6,18 
+013/2016 
+Subgrupo 03  Legumes e Verduras 
+ 
+Código UND DISCRIMINAÇÃO VALOR 
+ 
+03003 kg abóbora 0,17 
+013/2016 
+03023 kg pimentão 1,63 
+013/2016 
+03024 kg Tomate 1,80 
+013/2016 
+48654 Kg Pepino 1,07 
+013/2016 
+49800 Kg Xuxu 1,60 
+013/2016 
+48641 Kg Abobrinha 1,28 
+013/2016 
+52000 Kg Jerimum 1,28 
+013/2016 
+52001 maç Cheiro verde 0,64 
+013/2016 
+52002 maç Cebolinha verde 0,64 
+013/2016 
+52003 maç Coentro verde 0,64 
+013/2016 
+52004 und Alface comum 1,07 
+013/2016 
+52005 und Alface hidropônica 2,45 
+013/2016 
+52006 Kg Brócolis de Cabeça 2,98 
+013/2016 
+52007 Kg Colve-Flor 1,28 
+013/2016 
+52008 maç Espinafre 0,75 
+013/2016 
+52009 maç Hortelã 0,64 
+013/2016 
+52010 maç Mangericão 0,64 
+013/2016 
+52011 Kg Rabanete 1,28 
+013/2016 
+52012 maç Salsão 0,80 
+013/2016 
+52013 maç Salsinha 0,69 
+013/2016 
+52014 maç Agrião 0,69 
+013/2016 
+52015 maç rucula 0,75 
+013/2016 
+52016 maç chicória 0,75 
+013/2016 
+52017 Kg Alface americana 1,60 
+013/2016 
+52018 und Alface Rocha 1,28 
+013/2016 
+52019 und Alho poró 0,85 
+013/2016 
+Subgrupo 04  Ovos 
+ 
+Código UND DISCRIMINAÇÃO VALOR 
+ 
+12055 dz ovos brancos extra 2,21 
+013/2016 
+00010 dz ovos brancos médio 1,87 
+013/2016 
+00011 dz ovos brancos pequeno 1,70 
+013/2016 
+
+  
+ 
+ESTADO DO MARANHÃO 
+SECRETARIA DE ESTADO DA FAZENDA 
+ 
+ 
+ 
+00012 dz ovos caipira 4,51 
+013/2016 
+12044 dz ovos vermelho Grande 2,61 
+013/2016 
+12047 dz ovos vermelho médio 2,19 
+013/2016 
+12049 dz ovos vermelho Pequeno 1,97 
+013/2016 
+Subgrupo 05 = Raízes Comestíveis e Derivados 
+ 
+Código UND DISCRIMINAÇÃO VALOR 
+ 
+06002 kg alho regional 9,06 
+013/2016 
+06001 kg açafrão 2,84 
+013/2016 
+07001 sc alpiste - 50 kg 487,15 
+013/2016 
+45029 kg amendoim beneficiado 5,66 
+013/2016 
+19918 kg amendoim in natura 3,07 
+013/2016 
+03005 kg batata doce 1,19 
+013/2016 
+03006 kg batata ingressa 1,54 
+013/2016 
+03007 kg beterraba 1,45 
+013/2016 
+46012 kg cebola 0,68 
+013/2016 
+03009 kg cenoura 1,24 
+013/2016 
+03014 kg inhame 2,64 
+013/2016 
+45001 sc mandioca raiz 0,78 
+013/2016 
+48150 kg macaxeira 0,26 
+013/2016 
+35001 kg tapioca de goma - 60 kg 63,30 
+013/2016 
+ 
+ 
